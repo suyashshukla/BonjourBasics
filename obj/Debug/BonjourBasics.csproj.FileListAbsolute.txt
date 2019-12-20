@@ -1,0 +1,7 @@
+C:\Users\suyash.s\source\repos\BonjourBasics\bin\Debug\BonjourBasics.exe.config
+C:\Users\suyash.s\source\repos\BonjourBasics\bin\Debug\BonjourBasics.exe
+C:\Users\suyash.s\source\repos\BonjourBasics\bin\Debug\BonjourBasics.pdb
+C:\Users\suyash.s\source\repos\BonjourBasics\obj\Debug\BonjourBasics.csprojAssemblyReference.cache
+C:\Users\suyash.s\source\repos\BonjourBasics\obj\Debug\BonjourBasics.csproj.CoreCompileInputs.cache
+C:\Users\suyash.s\source\repos\BonjourBasics\obj\Debug\BonjourBasics.exe
+C:\Users\suyash.s\source\repos\BonjourBasics\obj\Debug\BonjourBasics.pdb
